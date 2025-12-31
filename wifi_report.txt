@@ -1,0 +1,7 @@
+Wi-Fi Security Analysis Report
+Date: 2025-12-31 21:37:41.224931
+
+SSID: ☆☆Взлом_Сеть☆☆
+Security: WPA2-Personal
+Risk Level: Medium
+------------------------------
