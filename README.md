@@ -1,12 +1,10 @@
-###📡 WiFi Security Analyser###
+📡 WiFi Security Analyser
 
-🔐 Overview
+Overview:-
 
-WiFi Security Analyser is an educational cybersecurity project written in Python that helps analyze the security posture of nearby WiFi networks. The tool focuses on identifying common wireless security risks and generating a basic risk assessment report.
+WiFi Security Analyser is an educational cybersecurity project written in Python that helps analyse the security posture of nearby WiFi networks. The tool focuses on identifying common wireless security risks and generating a basic risk assessment report.
 
-⚠️ Disclaimer: This project is strictly for educational and ethical purposes only. Do not use it on networks you do not own or have explicit permission to test.
-
-🎯 Objectives
+Objectives:-
 
 Understand how WiFi networks operate
 
@@ -18,7 +16,7 @@ Generate a readable security report
 
 Build a beginner-friendly cybersecurity project
 
-🧠 Features
+Features:-
 
 📶 Scan nearby WiFi networks
 
